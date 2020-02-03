@@ -5,5 +5,11 @@ Open each csv into Excel as a worksheet
 Import and run the dot-bas modules
 
 Sources
+
 firstnames: https://www.ssa.gov/OACT/babynames/decades/century.html
+
+lastnames: https://www.census.gov/topics/population/genealogy/data/2000_surnames.html
+
+
+
 
