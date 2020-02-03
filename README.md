@@ -12,4 +12,9 @@ lastnames: https://www.census.gov/topics/population/genealogy/data/2000_surnames
 
 cities: https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html
 
+zip-codes: https://simplemaps.com/data/us-zips
+
+
+
+
 
