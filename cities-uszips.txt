@@ -1,0 +1,718 @@
+zip	city	state_id	population	county_name
+77449	Katy	TX	122814	Harris
+77494	Katy	TX	114989	Fort Bend
+11368	Corona	NY	112425	Queens
+79936	El Paso	TX	112355	El Paso
+60629	Chicago	IL	111850	Cook
+90011	Los Angeles	CA	109414	Los Angeles
+77084	Houston	TX	107700	Harris
+11385	Ridgewood	NY	106717	Queens
+90650	Norwalk	CA	105886	Los Angeles
+91331	Pacoima	CA	105799	Los Angeles
+10467	Bronx	NY	103732	Bronx
+75034	Frisco	TX	102646	Denton
+11211	Brooklyn	NY	102624	Kings
+90201	Bell Gardens	CA	102433	Los Angeles
+08701	Lakewood	NJ	100763	Ocean
+11236	Brooklyn	NY	100331	Kings
+11226	Brooklyn	NY	100277	Kings
+92335	Fontana	CA	99284	San Bernardino
+11208	Brooklyn	NY	98660	Kings
+75070	Mckinney	TX	98219	Collin
+37013	Antioch	TN	97819	Davidson
+90250	Hawthorne	CA	96836	Los Angeles
+90805	Long Beach	CA	96708	Los Angeles
+92336	Fontana	CA	96575	San Bernardino
+00926	San Juan	PR	96530	San Juan
+91342	Sylmar	CA	96487	Los Angeles
+90044	Los Angeles	CA	96436	Los Angeles
+94565	Pittsburg	CA	96081	Contra Costa
+11234	Brooklyn	NY	95666	Kings
+11220	Brooklyn	NY	95643	Kings
+75052	Grand Prairie	TX	95516	Dallas
+90280	South Gate	CA	95103	Los Angeles
+92503	Riverside	CA	94512	Riverside
+60618	Chicago	IL	94395	Cook
+10456	Bronx	NY	94218	Bronx
+11373	Elmhurst	NY	93967	Queens
+11214	Brooklyn	NY	92946	Kings
+10025	New York	NY	92805	New York
+77479	Sugar Land	TX	92146	Fort Bend
+78521	Brownsville	TX	92108	Cameron
+11207	Brooklyn	NY	91972	Kings
+92683	Westminster	CA	91376	Orange
+60632	Chicago	IL	91039	Cook
+10314	Staten Island	NY	90761	Richmond
+30043	Lawrenceville	GA	90675	Gwinnett
+91710	Chino	CA	90582	San Bernardino
+60639	Chicago	IL	90517	Cook
+92704	Santa Ana	CA	90340	Orange
+11219	Brooklyn	NY	90036	Kings
+78660	Pflugerville	TX	89830	Travis
+11230	Brooklyn	NY	89075	Kings
+92804	Anaheim	CA	88749	Orange
+11206	Brooklyn	NY	88349	Kings
+77429	Cypress	TX	88344	Harris
+30044	Lawrenceville	GA	88040	Gwinnett
+77584	Pearland	TX	87986	Brazoria
+60647	Chicago	IL	87509	Cook
+91744	La Puente	CA	87240	Los Angeles
+92376	Rialto	CA	87027	San Bernardino
+77573	League City	TX	86926	Galveston
+75217	Dallas	TX	86896	Dallas
+92154	San Diego	CA	86811	San Diego
+95076	Watsonville	CA	86703	Santa Cruz
+11377	Woodside	NY	86421	Queens
+60623	Chicago	IL	85979	Cook
+91911	Chula Vista	CA	85365	San Diego
+94112	San Francisco	CA	85166	San Francisco
+93307	Bakersfield	CA	84809	Kern
+92592	Temecula	CA	84418	Riverside
+10458	Bronx	NY	83960	Bronx
+11221	Brooklyn	NY	83835	Kings
+93033	Oxnard	CA	83782	Ventura
+11229	Brooklyn	NY	83615	Kings
+93722	Fresno	CA	83179	Fresno
+60804	Cicero	IL	83147	Cook
+93727	Fresno	CA	82920	Fresno
+22193	Woodbridge	VA	82573	Prince William
+92126	San Diego	CA	82572	San Diego
+60617	Chicago	IL	82534	Cook
+77433	Cypress	TX	82257	Harris
+29483	Summerville	SC	81942	Dorchester
+11223	Brooklyn	NY	81789	Kings
+92509	Jurupa Valley	CA	81214	Riverside
+11355	Flushing	NY	80853	Queens
+92345	Hesperia	CA	80808	San Bernardino
+00725	Caguas	PR	80555	Caguas
+91335	Reseda	CA	80524	Los Angeles
+66062	Olathe	KS	80489	Johnson
+79912	El Paso	TX	80264	El Paso
+78572	Mission	TX	80213	Hidalgo
+79938	El Paso	TX	80143	El Paso
+77083	Houston	TX	79996	Harris
+77379	Spring	TX	79986	Harris
+78613	Cedar Park	TX	79699	Williamson
+10453	Bronx	NY	79606	Bronx
+10029	New York	NY	79597	New York
+91709	Chino Hills	CA	79298	San Bernardino
+78666	San Marcos	TX	79276	Guadalupe
+95823	Sacramento	CA	79272	Sacramento
+60625	Chicago	IL	79243	Cook
+94544	Hayward	CA	79235	Alameda
+60608	Chicago	IL	79205	Cook
+75211	Dallas	TX	79010	Dallas
+87121	Albuquerque	NM	78900	Bernalillo
+99301	Pasco	WA	78767	Franklin
+10468	Bronx	NY	78647	Bronx
+27610	Raleigh	NC	78475	Wake
+11235	Brooklyn	NY	78128	Kings
+78577	Pharr	TX	77835	Hidalgo
+95035	Milpitas	CA	77562	Santa Clara
+90706	Bellflower	CA	77529	Los Angeles
+91706	Baldwin Park	CA	77342	Los Angeles
+30024	Suwanee	GA	77334	Gwinnett
+60505	Aurora	IL	77190	Kane
+37042	Clarksville	TN	77168	Montgomery
+93550	Palmdale	CA	77006	Los Angeles
+11204	Brooklyn	NY	76978	Kings
+95630	Folsom	CA	76973	Sacramento
+93257	Porterville	CA	76923	Tulare
+76244	Keller	TX	76882	Tarrant
+37211	Nashville	TN	76834	Davidson
+77036	Houston	TX	76831	Harris
+11233	Brooklyn	NY	76819	Kings
+28269	Charlotte	NC	76811	Mecklenburg
+10462	Bronx	NY	76756	Bronx
+11212	Brooklyn	NY	76527	Kings
+23464	Virginia Beach	VA	76495	Virginia Beach
+78245	San Antonio	TX	76177	Bexar
+10452	Bronx	NY	76078	Bronx
+60634	Chicago	IL	75995	Cook
+47906	West Lafayette	IN	75899	Tippecanoe
+92553	Moreno Valley	CA	75830	Riverside
+33012	Hialeah	FL	75666	Miami-Dade
+94533	Fairfield	CA	75635	Solano
+78542	Edinburg	TX	75569	Hidalgo
+90255	Huntington Park	CA	75560	Los Angeles
+30349	Atlanta	GA	75514	Fulton
+11203	Brooklyn	NY	75451	Kings
+33024	Hollywood	FL	75306	Broward
+10002	New York	NY	74993	New York
+19120	Philadelphia	PA	74971	Philadelphia
+94587	Union City	CA	74601	Alameda
+10457	Bronx	NY	74554	Bronx
+11218	Brooklyn	NY	74508	Kings
+63376	Saint Peters	MO	74448	St. Charles
+92805	Anaheim	CA	74413	Orange
+85364	Yuma	AZ	74382	Yuma
+91910	Chula Vista	CA	74297	San Diego
+96797	Waipahu	HI	74262	Honolulu
+78130	New Braunfels	TX	74172	Comal
+94110	San Francisco	CA	74161	San Francisco
+00949	Toa Baja	PR	73891	Toa Baja
+10469	Bronx	NY	73870	Bronx
+94536	Fremont	CA	73855	Alameda
+93274	Tulare	CA	73778	Tulare
+77450	Katy	TX	73683	Harris
+89108	Las Vegas	NV	73678	Clark
+33023	Hollywood	FL	73671	Broward
+75228	Dallas	TX	73606	Dallas
+11375	Forest Hills	NY	73488	Queens
+93306	Bakersfield	CA	73401	Kern
+84118	Salt Lake City	UT	73078	Salt Lake
+33311	Fort Lauderdale	FL	73034	Broward
+93535	Lancaster	CA	72948	Los Angeles
+80013	Aurora	CO	72887	Arapahoe
+92105	San Diego	CA	72848	San Diego
+97006	Beaverton	OR	72831	Washington
+85032	Phoenix	AZ	72830	Maricopa
+96706	Ewa Beach	HI	72799	Honolulu
+90003	Los Angeles	CA	72741	Los Angeles
+97007	Beaverton	OR	72592	Washington
+10466	Bronx	NY	72479	Bronx
+93536	Lancaster	CA	72383	Los Angeles
+91766	Pomona	CA	72332	Los Angeles
+93065	Simi Valley	CA	72061	Ventura
+00953	Toa Alta	PR	71891	Toa Alta
+77095	Houston	TX	71878	Harris
+33025	Hollywood	FL	71763	Broward
+28277	Charlotte	NC	71605	Mecklenburg
+33411	West Palm Beach	FL	71587	Palm Beach
+92882	Corona	CA	71581	Riverside
+89110	Las Vegas	NV	71573	Clark
+76063	Mansfield	TX	71555	Tarrant
+45011	Hamilton	OH	71451	Butler
+91730	Rancho Cucamonga	CA	71422	San Bernardino
+10463	Bronx	NY	71360	Bronx
+92021	El Cajon	CA	71321	San Diego
+60614	Chicago	IL	71308	Cook
+60641	Chicago	IL	71023	Cook
+90262	Lynwood	CA	70936	Los Angeles
+60085	Waukegan	IL	70850	Lake
+91402	Panorama City	CA	70686	Los Angeles
+22191	Woodbridge	VA	70641	Prince William
+33186	Miami	FL	70614	Miami-Dade
+75002	Allen	TX	70597	Collin
+92703	Santa Ana	CA	70595	Orange
+30040	Cumming	GA	70510	Forsyth
+78046	Laredo	TX	70320	Webb
+07055	Passaic	NJ	70199	Passaic
+20906	Silver Spring	MD	70174	Montgomery
+93519	Cantil	CA	22	Kern
+98641	Oysterville	WA	22	Pacific
+36473	Range	AL	21	Conecuh
+36910	Jachin	AL	21	Choctaw
+43928	Glencoe	OH	21	Belmont
+57364	New Holland	SD	21	Douglas
+59276	Whitetail	MT	21	Daniels
+63745	Dutchtown	MO	21	Cape Girardeau
+65623	Butterfield	MO	21	Barry
+72059	Gregory	AR	21	Woodruff
+87724	La Loma	NM	21	Guadalupe
+92304	Amboy	CA	21	San Bernardino
+93634	Lakeshore	CA	21	Fresno
+99656	Red Devil	AK	21	Bethel
+08011	Birmingham	NJ	20	Burlington
+16140	New Bedford	PA	20	Lawrence
+38021	Crockett Mills	TN	20	Crockett
+40979	Roark	KY	20	Leslie
+43523	Grelton	OH	20	Henry
+55111	Saint Paul	MN	20	Hennepin
+59081	Silver Gate	MT	20	Park
+68881	Westerville	NE	20	Custer
+69220	Sparks	NE	20	Cherry
+76685	Satin	TX	20	Falls
+95699	Drytown	CA	20	Amador
+95724	Norden	CA	20	Placer
+99647	Pedro Bay	AK	20	Lake and Peninsula
+17343	Mc Knightstown	PA	19	Adams
+24130	Oriskany	VA	19	Botetourt
+36913	Melvin	AL	19	Choctaw
+40363	Perry Park	KY	19	Owen
+43032	Kilbourne	OH	19	Delaware
+70340	Amelia	LA	19	St. Mary
+78677	Wrightsboro	TX	19	Gonzales
+92280	Vidal	CA	19	San Bernardino
+96061	Mill Creek	CA	19	Tehama
+14112	North Evans	NY	18	Erie
+18251	Sybertsville	PA	18	Luzerne
+18935	Milford Square	PA	18	Bucks
+26228	Kanawha Head	WV	18	Upshur
+36476	River Falls	AL	18	Covington
+36766	Oak Hill	AL	18	Wilcox
+36859	Holy Trinity	AL	18	Russell
+42124	Beaumont	KY	18	Metcalfe
+56720	Donaldson	MN	18	Kittson
+58362	Penn	ND	18	Ramsey
+58713	Bantry	ND	18	McHenry
+61331	Lee Center	IL	18	Lee
+62336	Ferris	IL	18	Hancock
+82844	Wolf	WY	18	Sheridan
+21627	Crocheron	MD	17	Dorchester
+38542	Allred	TN	17	Overton
+50127	Ira	IA	17	Jasper
+59842	Haugan	MT	17	Mineral
+84743	Kingston	UT	17	Piute
+04343	East Winthrop	ME	16	Kennebec
+13475	Van Hornesville	NY	16	Herkimer
+17742	Lairdsville	PA	16	Lycoming
+28672	Scottville	NC	16	Ashe
+44816	Birmingham	OH	16	Erie
+65784	Zanoni	MO	16	Ozark
+67012	Beaumont	KS	16	Butler
+76836	Doole	TX	16	McCulloch
+79759	Notrees	TX	16	Ector
+81653	Slater	CO	16	Moffat
+89402	Crystal Bay	NV	16	Washoe
+94512	Birds Landing	CA	16	Solano
+95226	Campo Seco	CA	16	Calaveras
+98853	Stratford	WA	16	Grant
+06389	Yantic	CT	15	New London
+08074	Richwood	NJ	15	Gloucester
+08890	Zarephath	NJ	15	Somerset
+13826	Ouaquaga	NY	15	Broome
+18454	Poyntelle	PA	15	Wayne
+22989	Woodberry Forest	VA	15	Madison
+40816	Chappell	KY	15	Leslie
+46183	West Newton	IN	15	Marion
+63467	Saverton	MO	15	Ralls
+77454	Lissie	TX	15	Wharton
+79251	Quail	TX	15	Collingsworth
+86435	Supai	AZ	15	Coconino
+88114	Crossroads	NM	15	Lea
+91948	Mount Laguna	CA	15	San Diego
+93530	Keeler	CA	15	Inyo
+95721	Echo Lake	CA	15	El Dorado
+98852	Stehekin	WA	15	Chelan
+99923	Hyder	AK	15	Prince of Wales-Hyder
+05901	Averill	VT	14	Essex
+17076	Oakland Mills	PA	14	Juniata
+26282	Monterville	WV	14	Randolph
+58239	Hannah	ND	14	Cavalier
+59333	Hathaway	MT	14	Rosebud
+62344	Huntsville	IL	14	Schuyler
+68954	Inland	NE	14	Clay
+74068	Shamrock	OK	14	Creek
+77481	Thompsons	TX	14	Fort Bend
+82422	Emblem	WY	14	Big Horn
+88349	Sunspot	NM	14	Otero
+95435	Finley	CA	14	Lake
+97057	Shaniko	OR	14	Wasco
+99757	Lake Minchumina	AK	14	Yukon-Koyukuk
+13623	Chippewa Bay	NY	13	St. Lawrence
+14854	Jacksonville	NY	13	Tompkins
+15723	Chambersville	PA	13	Indiana
+25853	Helen	WV	13	Raleigh
+45618	Cherry Fork	OH	13	Adams
+63370	Olney	MO	13	Lincoln
+77467	Pierce	TX	13	Wharton
+88262	Mcdonald	NM	13	Lea
+92384	Shoshone	CA	13	Inyo
+97406	Agness	OR	13	Curry
+99651	Platinum	AK	13	Bethel
+99732	Chicken	AK	13	Southeast Fairbanks
+02584	Nantucket	MA	12	Nantucket
+04635	Frenchboro	ME	12	Hancock
+19472	Sassamansville	PA	12	Montgomery
+35559	Glen Allen	AL	12	Fayette
+36267	Millerville	AL	12	Clay
+58009	Blanchard	ND	12	Traill
+68946	Hendley	NE	12	Furnas
+69042	Stockville	NE	12	Frontier
+82052	Buford	WY	12	Albany
+82224	Lost Springs	WY	12	Niobrara
+84753	Modena	UT	12	Iron
+99136	Hay	WA	12	Whitman
+07926	Brookside	NJ	11	Morris
+39760	Starkville	MS	11	Oktibbeha
+42322	Beech Grove	KY	11	McLean
+42338	Dundee	KY	11	Ohio
+49819	Arnold	MI	11	Marquette
+76824	Bend	TX	11	San Saba
+99774	Stevens Village	AK	11	Yukon-Koyukuk
+13353	Hoffmeister	NY	10	Hamilton
+19535	Limekiln	PA	10	Berks
+21867	Upper Fairmount	MD	10	Somerset
+28733	Fontana Dam	NC	10	Graham
+29079	Lydia	SC	10	Darlington
+76939	Knickerbocker	TX	10	Tom Green
+95680	Ryde	CA	10	Sacramento
+95735	Twin Bridges	CA	10	El Dorado
+99790	Fairbanks	AK	10	Yukon-Koyukuk
+01066	North Hatfield	MA	9	Hampshire
+15072	Pricedale	PA	9	Westmoreland
+22845	Orkney Springs	VA	9	Shenandoah
+55450	Minneapolis	MN	9	Hennepin
+62962	Miller City	IL	9	Alexander
+72377	Rivervale	AR	9	Poinsett
+87518	Cebolla	NM	9	Rio Arriba
+18459	South Canaan	PA	8	Wayne
+20118	Middleburg	VA	8	Loudoun
+36616	Mobile	AL	8	Mobile
+36753	Mc Williams	AL	8	Monroe
+71772	Whelen Springs	AR	8	Clark
+72181	Wooster	AR	8	Faulkner
+76508	Temple	TX	8	Bell
+82219	Jay Em	WY	8	Goshen
+59062	Otter	MT	7	Powder River
+62279	Renault	IL	7	Monroe
+69171	Willow Island	NE	7	Dawson
+72528	Dolph	AR	7	Izard
+76949	Silver	TX	7	Coke
+82084	Tie Siding	WY	7	Albany
+83602	Banks	ID	7	Boise
+95430	Duncans Mills	CA	7	Sonoma
+07881	Wallpack Center	NJ	6	Sussex
+18430	Herrick Center	PA	6	Susquehanna
+24570	Lowry	VA	6	Bedford
+36727	Campbell	AL	6	Clarke
+49434	Macatawa	MI	6	Ottawa
+72338	Frenchmans Bayou	AR	6	Mississippi
+72636	Gilbert	AR	6	Searcy
+79920	El Paso	TX	6	El Paso
+81227	Monarch	CO	6	Chaffee
+97817	Bates	OR	6	Grant
+06856	Norwalk	CT	5	Fairfield
+12862	Riparius	NY	5	Warren
+32830	Orlando	FL	5	Orange
+35187	Wilton	AL	5	Shelby
+41760	Scuddy	KY	5	Perry
+46125	Eminence	IN	5	Morgan
+56210	Barry	MN	5	Big Stone
+63750	Gipsy	MO	5	Bollinger
+80479	Toponas	CO	5	Routt
+83671	Warren	ID	5	Idaho
+88343	Picacho	NM	5	Lincoln
+92267	Parker Dam	CA	5	San Bernardino
+95375	Strawberry	CA	5	Tuolumne
+04741	Estcourt Station	ME	4	Aroostook
+54641	Mather	WI	4	Jackson
+56577	Richwood	MN	4	Becker
+57571	Saint Charles	SD	4	Gregory
+79831	Alpine	TX	4	Brewster
+80473	Rand	CO	4	Jackson
+83433	Macks Inn	ID	4	Fremont
+99706	Fairbanks	AK	4	Southeast Fairbanks
+16312	Chandlers Valley	PA	3	Warren
+86003	Flagstaff	AZ	3	Coconino
+54643	Millston	WI	2	Jackson
+54765	Sand Creek	WI	2	Dunn
+82229	Shawnee	WY	1	Converse
+99034	Tumtum	WA	1	Stevens
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
